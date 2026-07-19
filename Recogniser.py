@@ -2028,7 +2028,7 @@ async def recogniser(do_open_ended_analysis = None, do_closed_ended_analysis = N
         parts = re.compile(r"[\r\n]+").split(paragraph)
 
         for index, part in enumerate(parts):
-          if len(part) > 0 and part[-1] not in ":\-.!?":   # When joining linebreaks, add punctuation after each line.
+          if len(part) > 0 and part[-1] not in ":\\-.!?":   # When joining linebreaks, add punctuation after each line.
             part += "."
             parts[index] = part
 
