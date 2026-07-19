@@ -166,7 +166,10 @@ async def completion_with_backoff(gpt_timeout, **kwargs):  # TODO: ensure that o
 
   qqq = True  # for debugging
 
-  attempt_number = completion_with_backoff.retry.statistics["attempt_number"]
+  attempt_number = completion_with_backoff.retry.statistics.get("attempt_number")
+  if attempt_number is None:  # the API has changed
+    attempt_number = completion_with_backoff.statistics["attempt_number"]
+
   timeout_multiplier = 2 ** (attempt_number-1) # increase timeout exponentially
 
   try:
