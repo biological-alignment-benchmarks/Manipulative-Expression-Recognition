@@ -23,6 +23,7 @@
 - Guilt tripping
 - Reactive abuse
 - Victim playing
+- All-or-nothing language
 - Exaggeration
 - Dramatization
 - Deception
@@ -55,6 +56,19 @@
 - Reneging on commitments by deeming them superfluous
 - Reneging on commitments under the pretext of business interests being more important
 
+- Misrepresenting the situation
+- Claiming agreement where there as not been any explicit confirmation
+- Acting as if agreement exists without checking
+- Assumptive framing
+- Presumptive agreement
+- Claiming agreement where the other party has actually clearly disagreed
+- Bypassing the disagreement / steamrolling
+- Bypassing the arguments
+- False consensus
+- Credit stealing
+- Credit hogging
+- Triangulation
+- Isolating the target from others
 - Gaining superiority
 - Generalization
 - Vague accusations
@@ -109,6 +123,7 @@
 - Normalizing dangerous behavior
 - Demanding
 - Creating artificial obligations
+- Treating others as an option while receiving full commitment in return
 - Not attempting to understand
 - Using strongly loaded words
 - Ignoring boundaries
@@ -128,6 +143,7 @@
 - Not answering a question
 - Word salad
 - Future faking
+- Bait-and-switch
 - Making promises about great future while neglecting present situation
 - Belittling
 - Invalidating
@@ -144,5 +160,10 @@
 - The Scarcity Principle
 - The Fear-Then-Relief Procedure
 - The Disrupt-Then-Reframe Technique
-
-
+- Asking two separate questions packaged as one
+- Moving the goal posts
+- Asking for uninformed consent
+- Asking for consent to abuse
+- Asking for consent to exploit
+- Manufactured consent
+- Poisoned generosity - offering too much of something else than what is needed, so that the other party can't accept.
